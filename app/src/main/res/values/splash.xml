@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TheFinals.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#d31f3c</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/the_finals_logo_stacked2</item>
+        <item name="postSplashScreenTheme">@style/Theme.TheFinalsJPC</item>
+    </style>
+
+</resources>
